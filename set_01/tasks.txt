@@ -1,0 +1,2 @@
+Commands for tasks in the 1st set:
+1. Please write a program that lists elements of the Fibonacci sequence less than a million.
