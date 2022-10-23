@@ -1,2 +1,50 @@
-Commands for tasks in the 1st set:
-1. Please write a program that lists elements of the Fibonacci sequence less than a million.
+Commands for set 1 ("Simple programmes with loops part 1"):
+1. Write a program that lists elements of the Fibonacci sequence less than a million.
+
+2. Find the initial expressions instead of 1,1 with the smallest sum,
+so that in the sequence analogous to the Fibonacci sequence has a word equal to the number of the current year.
+
+3. Write a program to check if there is a consistent subsequence of the Fibonacci sequence with a given sum.
+
+4. Write a program to calculate the integer root of a natural number using the relation 1 + 3 + 5 + ... = n^2.
+
+5. Write a program to determine the square root using Newton's method.
+
+6. Write a program to solve the equation x^x = 2020 using the Bisection method.
+
+7. Write a program that reads a natural number from the keyboard and answers the question,
+whether this number is the product of any two consecutive words of the Fibonacci sequence.
+
+8. Write a program to check whether a given number is prime.
+
+9. Write a program that prints out the divisors of numbers.
+
+10. Write a program that searches for perfect numbers less than one million.
+
+11. Write a program to find amicable numbers smaller than one million.
+
+12. Write a program to determine the greatest common divisor of 3 given numbers.
+
+13. Write a program to determine the smallest common multiple of 3 given numbers
+
+14. Write a programme to calculate the values of cos(x) from the Maclaurin series expansion.
+
+15. The infinite product of:
+sqrt(0.5) * sqrt(0.5 + 0.5 * sqrt(0.5)) * sqrt(0.5 + 0.5 * sqrt(0.5 + 0.5 * sqrt(0.5)))
+has the value 2/π. Write a program using this relationship and determining the value of π.
+
+16. Given a sequence defined by the formula: An+1 = (An mod 2) ∗ (3 ∗ An + 1) + (1 - An mod 2) ∗ An/2.
+Starting from any natural number > 1, this sequence reaches the value 1.
+Write a program that finds a starting word from the interval 2-10000 for which the value 1 is reached after the largest number of steps.
+
+17. Write a program to determine the value to which the quotient of two consecutive expressions of the Fibonacci sequence.
+Determine this quotient for different values of the initial expressions of the sequence.
+
+18. Modify Newton's method so that the program from task 5 calculates the root of degree 3.
+
+19. Please write a program to determine the value of the number e using the relationship: e = 1/0! +
+1/1! + 1/2! + 1/3! + ...
+
+20. The following sequences are given: An+1 = sqrt(An * Bn) and Bn+1 = (An+Bn) / 2.0.
+These sequences converge to a common limit called the arithmetic-geometric mean.
+Write a program to determine the average arithmetic-geometric mean of two numbers.
