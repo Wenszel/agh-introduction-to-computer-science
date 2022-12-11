@@ -11,3 +11,9 @@
 ## set_03: "One-dimensional arrays"
 
 ## set_04: "Two-dimensional arrays"
+
+## set_06: "Recursion"
+- Knight's tour
+- Determinant of the matrix
+- Tower of Hanoi 
+- Eight queens puzzle
