@@ -61,14 +61,3 @@ class Node:
             else:
                 shadow.next = pointer.next
         return self
-
-
-set_test = Node(17)
-print(set_test)
-print(set_test.add(5))
-print(set_test.add(7))
-print(set_test.add(6))
-print(set_test.add(3))
-print(set_test.delete(3))
-print(set_test.delete(17))
-print(set_test.delete(6))
